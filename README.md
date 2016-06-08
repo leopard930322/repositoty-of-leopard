@@ -1,5 +1,5 @@
 # repositoty-of-leopard
-just for practice
+//just for practice
 
 
 #include<stdio.h>
